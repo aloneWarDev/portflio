@@ -2,7 +2,7 @@
   {
     "title": "Bitz N Pizzas",
     "imageSrc": "projects/bitzpizza-1.png",
-    "description": "A decentralized platform where individuals can discover, collect and sell rare digital art NFTs by creating rare pizzas. You can buy ingredient NFTs and trade them on the marketplace or Opensea.",
+    "description": "A decentralized platform where individuals can discover, collect and sell rare digital art NFTs by creating rare pizzas. You can buy ingredient NFTs and trade them.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
@@ -18,7 +18,7 @@
   {
     "title": "NLP Education",
     "imageSrc": "projects/nlp-education.png",
-    "description": "Educators who join the NewsLitNation gain access to a supportive, collegial community of news literacy champions – and a space for exchanging conversation, ideas and best practices. Members also enjoy exclusive perks and incentives to support them in the classroom.",
+    "description": "Educators who join the NewsLitNation gain access to a supportive, collegial community of news literacy champions – and a space for exchanging conversation.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
@@ -26,7 +26,7 @@
   {
     "title": "Checkology",
     "imageSrc": "projects/checkology.png",
-    "description": "Educators who join the NewsLitNation gain access to a supportive, collegial community of news literacy champions – and a space for exchanging conversation, ideas and best practices. Members also enjoy exclusive perks and incentives to support them in the classroom.",
+    "description": "Educators who join the NewsLitNation gain access to a supportive, collegial community of news literacy champions – and a space for exchanging conversation.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
@@ -42,7 +42,7 @@
   {
     "title": "NHC Metaverse",
     "imageSrc": "projects/al-mayar.png",
-    "description": "The NHC metaverse is an alternate virtual experience that a user can go through once they visit the web marketplace. The virtual experience constitutes a metaverse that performs all the functionalities available on the website.",
+    "description": "The NHC metaverse is an alternate virtual experience that a user can go through once they visit the web marketplace. The virtual experience constitutes a metaverse that performs all the functionalities available on the website.Some additional features.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
