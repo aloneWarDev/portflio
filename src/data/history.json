@@ -1,29 +1,29 @@
 [
   {
     "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
+    "organisation": "Narsun Studios",
+    "startDate": "November, 2023",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "experiences": ["Worked on Socket.io", "Worked on the Node.js"],
+    "imageSrc": "history/narsun-logo.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
+    "role": "Software Engineer",
+    "organisation": "Kwanso",
+    "startDate": "Aug, 2023",
+    "endDate": "October, 2023",
+    "experiences": ["Worked on Next.js", "Worked on Nest.js"],
+    "imageSrc": "history/kwanso-logo-pre.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "Associate Software Engineer",
+    "organisation": "Arhamsoft",
+    "startDate": "October, 2021",
+    "endDate": "Feburary, 2023",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Worked on the React",
+      "Worked on the Web3.js"
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/arhamsoft-logo.png"
   }
 ]

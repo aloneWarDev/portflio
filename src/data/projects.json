@@ -1,24 +1,48 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "Bitz N Pizzas",
+    "imageSrc": "projects/bitzpizza-1.png",
+    "description": "A decentralized platform where individuals can discover, collect and sell rare digital art NFTs by creating rare pizzas. You can buy ingredient NFTs and trade them on the marketplace or Opensea.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "DeSkillz",
+    "imageSrc": "projects/deskillz.png",
+    "description": "We’re disrupting the blockchain gaming ecosystem by providing a low-entry barrier for all players, developers and investors to have fun and earn revenue mutually. ",
     "skills": ["React", "Express", "Node", "Sass"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "title": "NLP Education",
+    "imageSrc": "projects/nlp-education.png",
+    "description": "Educators who join the NewsLitNation gain access to a supportive, collegial community of news literacy champions – and a space for exchanging conversation, ideas and best practices. Members also enjoy exclusive perks and incentives to support them in the classroom.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Checkology",
+    "imageSrc": "projects/checkology.png",
+    "description": "Educators who join the NewsLitNation gain access to a supportive, collegial community of news literacy champions – and a space for exchanging conversation, ideas and best practices. Members also enjoy exclusive perks and incentives to support them in the classroom.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "RealRepp",
+    "imageSrc": "projects/real-repp.png",
+    "description": "At RealREPP, our people are the foundation of our culture. As a nationally recognized & industry leading recruiting company, we are dedicated to providing excellent customer service and committed to creating a diverse, equal and inclusive workforce.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "NHC Metaverse",
+    "imageSrc": "projects/al-mayar.png",
+    "description": "The NHC metaverse is an alternate virtual experience that a user can go through once they visit the web marketplace. The virtual experience constitutes a metaverse that performs all the functionalities available on the website.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
